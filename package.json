@@ -1,0 +1,12 @@
+{
+    "name": "invoice-landing",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node server"
+    },
+    "dependencies": {
+        "express": "4.17.1",
+        "compression": "1.7.4"
+    }
+}

@@ -373,4 +373,8 @@
     display: block !important;
   }
 }
+
+.text-center {
+  text-align: center;
+}
 /*# sourceMappingURL=style.css.map */
